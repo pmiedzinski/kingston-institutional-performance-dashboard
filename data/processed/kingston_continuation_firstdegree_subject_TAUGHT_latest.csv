@@ -1,0 +1,21 @@
+YEAR,SUBJECT_CODE,SUBJECT_LABEL,INDICATOR_VALUE_NUM,BENCHMARK_VALUE_NUM,DIFFERENCE_NUM,DENOMINATOR_NUM,COHORT_BAND,FOCUS_FLAG,IMPACT_EST
+2019-2022,CAH03-02,Sport and exercise sciences,77.2,83.1,-5.9,190.0,>=100 (Strong),Focus,11.21
+2019-2022,CAH02-06,Allied health,81.5,89.2,-7.6,80.0,50–99 (Medium),Focus,6.08
+2019-2022,CAH22-01,Education and teaching,88.9,91.0,-2.1,190.0,>=100 (Strong),Watch,3.99
+2019-2022,CAH03-01,Biosciences,88.9,90.0,-1.1,220.0,>=100 (Strong),Watch,2.4200000000000004
+2019-2022,CAH09-01,Mathematical sciences,84.6,87.4,-2.8,50.0,50–99 (Medium),Watch,1.4
+2019-2022,CAH07-02,Chemistry,88.2,88.6,-0.4,120.0,>=100 (Strong),OK,0.48
+2019-2022,CAH25-02,Performing arts,89.1,88.9,0.1,330.0,>=100 (Strong),OK,0.0
+2019-2022,CAH04-01,Psychology,89.0,88.4,0.7,910.0,>=100 (Strong),OK,0.0
+2019-2022,CAH15-01,"Sociology, social policy and anthropology",88.1,86.9,1.3,450.0,>=100 (Strong),OK,0.0
+2019-2022,CAH24-01,"Media, journalism and communications ",90.0,88.6,1.4,410.0,>=100 (Strong),OK,0.0
+2019-2022,CAH02-05,Medical sciences,92.8,91.2,1.5,660.0,>=100 (Strong),OK,0.0
+2019-2022,CAH26-01,"Geography, earth and environmental studies ",92.3,90.6,1.7,140.0,>=100 (Strong),OK,0.0
+2019-2022,CAH23-01,Combined and general studies,86.3,84.1,2.1,50.0,50–99 (Medium),OK,0.0
+2019-2022,CAH15-02,Economics,91.4,89.0,2.4,280.0,>=100 (Strong),OK,0.0
+2019-2022,CAH16-01,Law,92.8,90.4,2.4,320.0,>=100 (Strong),OK,0.0
+2019-2022,CAH07-04,"General, applied and forensic sciences ",91.2,88.0,3.3,210.0,>=100 (Strong),OK,0.0
+2019-2022,CAH19-01,English studies,93.1,89.5,3.6,160.0,>=100 (Strong),OK,0.0
+2019-2022,CAH15-04,Health and social care,89.2,85.4,3.8,310.0,>=100 (Strong),OK,0.0
+2019-2022,CAH13-01,"Architecture, building and planning",94.4,89.5,4.9,570.0,>=100 (Strong),OK,0.0
+2019-2022,CAH02-02,"Pharmacology, toxicology and pharmacy",93.6,87.6,6.0,430.0,>=100 (Strong),OK,0.0
